@@ -1,6 +1,6 @@
 # youtube-transcript-fallback
 
-[![Powered by Supadata](https://img.shields.io/badge/Powered%20by-Supadata-6E56CF)](https://supadata.ai)
+<a href="https://supadata.ai/r/S36M68X3" rel="sponsored" target="_blank"><img src="https://supadata.ai/badge/powered-by-supadata-light.svg" alt="Powered by Supadata" width="232" height="54" /></a>
 [![test](https://github.com/cgorricho/youtube-transcript-fallback/actions/workflows/test.yml/badge.svg)](https://github.com/cgorricho/youtube-transcript-fallback/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
